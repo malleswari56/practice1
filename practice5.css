@@ -1,0 +1,31 @@
+.background{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png');
+    background-size: cover;
+    height: 100vh;
+   
+}
+.cardbg{
+    background-color: #ffffff;
+
+}
+h1{
+    color:rgb(72, 2, 138);
+}
+.button{
+    background-color: #d7dfe9;
+    border-radius: 10px;
+    padding:10px;
+    height:35px;
+    text-align:justify;
+}
+.btn2{
+    background-color: #171f46;
+    color: #ffffff;
+    border-radius: 10px;
+    height:35px;
+    padding:10px;
+
+}
+.card1{
+	width:400px;
+	margin:auto;}
